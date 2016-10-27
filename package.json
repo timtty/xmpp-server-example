@@ -1,0 +1,9 @@
+{
+  "name": "nodeXmppServerExample",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-xmpp-core": "*",
+    "node-xmpp-server": "*",
+    "pem": "*"
+  }
+}
